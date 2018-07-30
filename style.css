@@ -1,5 +1,6 @@
 body {background-color: #D7DAE5;}
-a {color:#A6D8D4;}
+a {color:#000000;}
 .veg {color:#00ff00;}
 .nonveg {color:#ff0000;}
-.list{background-color: #8EAF9D;font-size: 20px; }
+.list{background-color: #8EAF9D;font-size: 20px;font-family: Arial, Helvetica, sans-serif;width: 200px}
+#both{font-size: 30px;color: #000000}
